@@ -8,8 +8,8 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            magni, 
+          <h4>Your one-stop destination for delicious meals delivered fast and fresh to your doorstep.</h4>
+    
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
@@ -19,7 +19,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-content-center">
-          <h2>CONPANY</h2>
+          <h2>COMPANY</h2>
           <ul>
             <li>Home</li>
             <li>About Us</li>
@@ -30,15 +30,16 @@ const Footer = () => {
         <div className="footer-content-right">
           <h2>GET IN TOUCH</h2>
           <ul>
-            <li>9709891565</li>
-            <li>aashishsharrof@gmail.com</li>
+            <li>Contact Info</li>
+            <li>8579872969</li>
+            <li>aashishgupta8579@gmail.com</li>
             <li></li>
           </ul>
         </div>
       </div>
       <hr />
       <p className="footer-copyright">
-        Copyright 2024 @Tomato.com-All Right Reserved
+        Copyright 2025 @aashishgupta-All Right Reserved
       </p>
     </div>
   );

@@ -34,12 +34,12 @@
 }
 
 .food-item-desc{
-    color:#676767;
+    color:brown;
     font-size:12px;
 }
 
 .food-item-price{
-    color:tomato;
+    color:brown;
     font-size:22px;
     font-weight:500;
     margin:10px 0px;
