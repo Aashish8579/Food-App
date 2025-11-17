@@ -5,6 +5,9 @@ A responsive food ordering web application built with React and Vite. It provide
 🔗 Source Code
 https://github.com/Aashish8579/Food-App
 
+
+Deloyed link:
+https://aashish-crave-cart.netlify.app/
 📌 Table of Contents
 
 About
